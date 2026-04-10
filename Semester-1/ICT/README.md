@@ -1,7 +1,13 @@
-# ICT Fundamentals – Semester 1
+- # ICT – Semester 1
 
-This folder contains basic ICT practice tasks completed during the first semester.
+This folder contains introductory ICT practice work.
 
 ## Topics Covered
 - Basic HTML
 - Basic CSS
+- Webpage Structure
+- Forms
+- Tables
+- Navigation Menus
+
+These exercises were part of my first semester coursework in BS Computer Science.
