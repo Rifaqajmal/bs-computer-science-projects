@@ -1,5 +1,10 @@
 # Nexus File Organizer – AI Semester Project
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Platform](https://img.shields.io/badge/Platform-Windows-green)
+![GUI](https://img.shields.io/badge/GUI-CustomTkinter-orange)
+![Project](https://img.shields.io/badge/Type-Semester%20Project-purple)
+
 **Nexus File Organizer** is a desktop application developed in **Python** that automatically organizes files inside a selected folder based on different criteria such as file type, date, alphabetical order, or file size.
 
 The application provides a **graphical user interface (GUI)** that helps users manage and organize large collections of files efficiently.
