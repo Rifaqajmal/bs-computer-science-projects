@@ -1,4 +1,4 @@
-# BS Computer Science Projects
+# BS Computer Science Journey Tasks/Lab Works/Semester Projects
 
 This repository contains coursework, lab work, and programming projects completed during my **BS Computer Science (BSCS)** program.
 
