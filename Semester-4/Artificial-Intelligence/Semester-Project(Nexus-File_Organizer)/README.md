@@ -48,5 +48,5 @@ BS Computer Science – Artificial Intelligence Course
 
 ## Authors
 
-**Rifaq Ajmal**
+**Rifaq Ajmal** And
 **Muhammad Uzair**
